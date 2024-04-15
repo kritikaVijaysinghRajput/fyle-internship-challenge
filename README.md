@@ -28,7 +28,7 @@ This Angular 17 single-page application (SPA) is designed to fetch and display p
 1. Clone the repository:
 
    ```
-   git clone https://github.com/harshkhavale/fyle-internship-challenge-23
+   git clone https://github.com/kritikaVijaysinghRajput/fyle-internship-challenge.git
    ```
 
 2. Install dependencies:
