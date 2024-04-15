@@ -5,6 +5,8 @@
 ## Overview
 
 This Angular 17 single-page application (SPA) is designed to fetch and display public GitHub repositories belonging to a user. It utilizes the GitHub API for fetching user information and repositories. Pagination is implemented on the server-side to improve performance, and Tailwind CSS is used for styling.
+![image](https://github.com/kritikaVijaysinghRajput/fyle-internship-challenge/assets/126145278/22691bc9-b97e-4931-82ef-2df7b4e9172e)
+
 
 
 ## Features
@@ -62,11 +64,11 @@ ng test
 
 ## Deployment
 
-The application is deployed to vercel. Access it [here](<https://fyle-internship-challenge-azure.vercel.app//>).
+The application is deployed to vercel. Access it [here](<https://fyle-internship-challenge-omega.vercel.app//>).
 
 ## Video Introduction
 
-[Link to video introduction](<>)
+[Link to video introduction](<https://drive.google.com/file/d/1gjjv3dl4gYqEmAdq6h_KSm_vXdirveOE/view?usp=drive_link>)
 
 
 
