@@ -62,11 +62,11 @@ ng test
 
 ## Deployment
 
-The application is deployed to vercel. Access it [here](<https://fyle-internship-challenge-23-lilac.vercel.app/>).
+The application is deployed to vercel. Access it [here](<https://fyle-internship-challenge-azure.vercel.app//>).
 
 ## Video Introduction
 
-[Link to video introduction](<https://drive.google.com/file/d/1TZw9-1mz7km2LTIv1eIQqNAFSSBDaR7e/view?usp=drive_link>)
+[Link to video introduction](<>)
 
 
 
